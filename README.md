@@ -22,8 +22,4 @@ The program helps users quickly identify trends in movie ratings, average scores
 - `visualize.py` → Helper script for generating graphs  
 - `README.md` → Project documentation (this file)
 
-### How to Run Program  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/movie-ratings-analyzer.git
-   cd movie-ratings-analyzer
+#### Thank you for viewing!
